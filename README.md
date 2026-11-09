@@ -56,36 +56,40 @@ El repositorio está compuesto por un único proyecto (`LabMVP`) que incluye:
 
 ## 📸 Capturas de Pantalla y Problemas
 
-### 🗂️ Problema 1: Interfaz MDI con menú lateral (`FrmPrincipal`)
+### 🗂️ Problema 1: Interfaz MDI con menú lateral 
 
 En este ejercicio se desarrolló una interfaz de múltiples documentos (MDI) con un menú lateral colapsable, la hora y fecha actuales, y en la parte inferior del menú la sesión del usuario que inició sesión.
 
 #### 📸 Captura de pantalla
 
-![MDI 1](docs/mdi-1.png)
-![MDI 2](docs/mdi-2.png)
+<img width="366" height="489" alt="image" src="https://github.com/user-attachments/assets/c44e36d2-a0e8-4bd7-a91a-1ad6525b9c20" />
+
+<img width="1078" height="655" alt="image" src="https://github.com/user-attachments/assets/785cbd93-68b5-44e1-ac51-360a773a591d" />
+
 
 ---
 
-### 🎲 Problema 2: Juego de Craps (`FrmCraps`)
+### 🎲 Problema 2: Juego de Craps 
 
 En este ejercicio se programó la lógica del clásico juego de dados de Craps dentro del patrón MVP. El usuario gana con 7 u 11 en el primer tiro, pierde con 2, 3 o 12, y con cualquier otro número establece su punto y sigue lanzando hasta repetirlo (gana) o sacar 7 (pierde).
 
 #### 📸 Captura de pantalla
 
-![Craps 1](docs/craps-1.png)
-![Craps 2](docs/craps-2.png)
+<img width="1073" height="668" alt="image" src="https://github.com/user-attachments/assets/8ea6e3ea-4826-4748-9d23-85857617a4a3" />
+<img width="1071" height="653" alt="image" src="https://github.com/user-attachments/assets/8ae9e57d-6368-4eef-b1c0-85531d454277" />
+
 
 ---
 
-### ✅ Problema 3: Validaciones y Login (`FrmLogin` / `FrmRegistro`)
+### ✅ Problema 3: Validaciones y Login
 
 En este ejercicio se implementaron validaciones de correo, contraseña (mínimo 8 caracteres, una mayúscula y un número), confirmación de contraseña y correo duplicado, junto con la generación y verificación del hash.
 
 #### 📸 Captura de pantalla
 
-![Validación 1](docs/validacion-1.png)
-![Validación 2](docs/validacion-2.png)
+<img width="370" height="516" alt="image" src="https://github.com/user-attachments/assets/0b0ac5c5-671c-4e8a-a426-7047018774fa" />
+
+<img width="370" height="520" alt="image" src="https://github.com/user-attachments/assets/bbb87641-15db-4c41-8676-92ba8a2db288" />
 
 ---
 
@@ -141,6 +145,6 @@ LabMVP/
 
 * **Nombre:** Julian Mosquera
 * **Institución:** Universidad Tecnológica de Panamá (UTP)
-* **Curso:** Herramientas de la Programación Aplicada III (.Net) — Grupo 1IL133
+* **Curso:** Herramientas de la Programación Aplicada III — Grupo 1IL133
 * **Instructora:** Ing. Irina Fong
 * **Fecha de Realización:** 09/11/2026
